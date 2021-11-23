@@ -1,0 +1,12 @@
+cars:
+  id: cars
+  name: cars
+  path: ./input_files/cars.csv
+  file_name: cars.csv
+  file_sha1: bcdf35fdf28d2e70027f0579d368da5cb15c76cc
+  data_sha1: 18fb4fb37f4e7d1583170642af38efcef0513570
+  file_read_fail: no
+  class: data.frame
+  description: cars.csv_sha1_bcdf35f
+  pin_version: b1dc6a3
+  synced: yes

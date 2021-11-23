@@ -1,0 +1,26 @@
+HEAD: rds_log_4ed8994
+rds_log_f82524c:
+  project_name: dp_test1
+  project_description: Test data product
+  branch_name: us001
+  branch_description: User story 1
+  dp_name: dp-test1-us001
+  class:
+  - dp
+  - list
+  rds_file_sha1: f82524cfc493952ad67b726d3cacafb19db79df2
+  rds_obj_sha1: e21fba2011e204e971785ec9d6ac1b14efa7178b
+  pin_version: c2e1c2c
+rds_log_4ed8994:
+  project_name: dp_test1
+  project_description: Test data product
+  branch_name: us001
+  branch_description: User story 1
+  dp_name: dp-test1-us001
+  class:
+  - dp
+  - list
+  rds_file_sha1: 4ed8994a0ae2b45648e9a491785c894143d2beb0
+  rds_obj_sha1: 24bb694853106a3dfb795333eb6114952dd63436
+  pin_version: bfa4a36
+  commit_description: First dp build
