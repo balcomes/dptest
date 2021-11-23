@@ -1,0 +1,5 @@
+.drake/
+input_files/
+output_files/
+.Rhistory
+.DS_Store
