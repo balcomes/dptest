@@ -1,0 +1,9 @@
+project_path: dp_test1
+project_name: dp_test1
+project_description: Test data product
+branch_name: us001
+branch_description: User story 1
+readme_general_note: This data object is generated for testing purposes
+board_params_set_dried: board_params_set_s3(board_alias = "cars_board", bucket_name
+  = "jadecanary", region = "us-east-2")
+creds_set_dried: creds_set_aws(key = Sys.getenv("AWS_KEY"), secret = Sys.getenv("AWS_SECRET"))
